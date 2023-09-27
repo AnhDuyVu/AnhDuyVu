@@ -4,6 +4,13 @@ Hi, I am Anh Duy. I am a demand planner with passion in pursuit of a career path
 ## 📚 **Projects**
 Welcome to my portfolio, where I showcase my [Projects](https://github.com/AnhDuyVu/Data-Analysis-Projects)
 
+## 🛠️ **Tools**
+ Language: SQL, Python
+ Database: Google BigQuery, PostgreSQL, MySQL
+ Visualization: Power BI
+
+👋🏻 Connect with Me
+
 <!--
 **AnhDuyVu/AnhDuyVu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
