@@ -11,5 +11,5 @@ Welcome to my portfolio, where I showcase my [Projects](https://github.com/AnhDu
 
 ## 📫 **Connect with Me**
 
-- [LinkIns](https://www.linkedin.com/in/vu-anh-duy-data-driven/)
+- [LinkIn](https://www.linkedin.com/in/vu-anh-duy-data-driven/)
 
