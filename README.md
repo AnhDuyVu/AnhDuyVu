@@ -9,5 +9,5 @@ Welcome to my portfolio, where I showcase my [Projects](https://github.com/AnhDu
 - Database: Google BigQuery, PostgreSQL, MySQL
 - Visualization: Power BI
 
-📫 Connect with Me
+## 📫 **Connect with Me**
 
