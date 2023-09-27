@@ -5,9 +5,9 @@ Hi, I am Anh Duy. I am a demand planner with passion in pursuit of a career path
 Welcome to my portfolio, where I showcase my [Projects](https://github.com/AnhDuyVu/Data-Analysis-Projects)
 
 ## 🛠️ **Tools**
- Language: SQL, Python
- Database: Google BigQuery, PostgreSQL, MySQL
- Visualization: Power BI
+- Language: SQL, Python
+- Database: Google BigQuery, PostgreSQL, MySQL
+- Visualization: Power BI
 
 📫 Connect with Me
 
